@@ -1,0 +1,5 @@
+QuestÃ£o 2: casos de teste 3 e 4 
+QuestÃ£o 3: casos de teste 5 e 6
+QuestÃ£o 4: casos de teste 7 e 8
+
+ATENÃ‡ÃƒO: o checksum de 8 bits DEVERÃ ser do tipo unsigned !!!!! 
